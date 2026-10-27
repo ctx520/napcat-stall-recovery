@@ -1,5 +1,9 @@
 # NapCat Stall Recovery
 
+**English**: Troubleshooting and one-click recovery for NapCat "connection alive but no messages" stalls when running with AstrBot — see the recovery script and the 10-case playbook.
+
+**English keywords**: NapCat stall, QQ bot not replying, OneBot v11, AstrBot, restart script, watchdog.
+
 > 处理大肥鱼掉线或 NapCat 假死问题
 
 QQ 机器人"突然不回消息"的排查与恢复。
